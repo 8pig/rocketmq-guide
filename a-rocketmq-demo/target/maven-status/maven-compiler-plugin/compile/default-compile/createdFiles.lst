@@ -1,5 +1,7 @@
 com\powernode\domain\MsgModel.class
-com\powernode\demo\ASimpleTest.class
 com\powernode\demo\ASimpleTest$1.class
+com\powernode\demo\BASync.class
+com\powernode\demo\ASimpleTest.class
 com\powernode\ARocketmqDemoApplication.class
+com\powernode\demo\BASync$1.class
 com\powernode\constant\MqConstant.class
